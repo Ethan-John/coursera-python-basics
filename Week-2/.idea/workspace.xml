@@ -1,28 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/while/while_19.py" line="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ff910a61-6163-43c9-97a7-bcd055b11fdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if-else/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/while_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Week-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Week-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/task_9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,129 +61,77 @@
     <session id="2007661542">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="38" />
+          <entry key="py" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="38" />
+          <entry key="Python" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7071" />
+          <entry key="dummy" value="7" />
+          <entry key="py" value="14361" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7071" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="14361" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <marker date="1542106201764" expanded="true" signature="41:256" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_8.py">
+        <entry file="file://$PROJECT_DIR$/while/while_21.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_9.py">
+        <entry file="file://$PROJECT_DIR$/while/while_22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_10.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_12.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <marker date="1542107084477" expanded="true" signature="8:9" ph="..." />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task_13.py">
+        <entry file="file://$PROJECT_DIR$/while/while_23.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding>
-                <marker date="1542110243206" expanded="true" signature="19:20" ph="..." />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_5.py">
+        <entry file="file://$PROJECT_DIR$/while/while_19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_6.py">
+        <entry file="file://$PROJECT_DIR$/while/while_20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="255">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -194,13 +169,37 @@
         <option value="$PROJECT_DIR$/task_16.py" />
         <option value="$PROJECT_DIR$/task_17.py" />
         <option value="$PROJECT_DIR$/task_18.py" />
+        <option value="$PROJECT_DIR$/while/task_1.py" />
+        <option value="$PROJECT_DIR$/while/while_1.py" />
+        <option value="$PROJECT_DIR$/while/while_2.py" />
+        <option value="$PROJECT_DIR$/while/while_3.py" />
+        <option value="$PROJECT_DIR$/while/while_4.py" />
+        <option value="$PROJECT_DIR$/while/while_6.py" />
+        <option value="$PROJECT_DIR$/while/while_7.py" />
+        <option value="$PROJECT_DIR$/while/while_5.py" />
+        <option value="$PROJECT_DIR$/while/while_8.py" />
+        <option value="$PROJECT_DIR$/while/while_9.py" />
+        <option value="$PROJECT_DIR$/while/while_10.py" />
+        <option value="$PROJECT_DIR$/while/while_11.py" />
+        <option value="$PROJECT_DIR$/while/while_12.py" />
+        <option value="$PROJECT_DIR$/while/while_13.py" />
+        <option value="$PROJECT_DIR$/while/while_15.py" />
+        <option value="$PROJECT_DIR$/while/while_16.py" />
+        <option value="$PROJECT_DIR$/while/while_14.py" />
+        <option value="$PROJECT_DIR$/while/while_19.py" />
+        <option value="$PROJECT_DIR$/while/while_20.py" />
+        <option value="$PROJECT_DIR$/while/while_18.py" />
+        <option value="$PROJECT_DIR$/while/while_17.py" />
+        <option value="$PROJECT_DIR$/while/while_21.py" />
+        <option value="$PROJECT_DIR$/while/while_22.py" />
+        <option value="$PROJECT_DIR$/while/while_23.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="144" />
+    <option name="x" value="91" />
     <option name="y" value="27" />
-    <option name="width" value="1285" />
+    <option name="width" value="1275" />
     <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -211,7 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,11 +217,33 @@
               <item name="Week-2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Week-2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Week-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week-2" type="462c0819:PsiDirectoryNode" />
+              <item name="while" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Week-2" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Week-2" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/if-else" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,20 +257,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task_18">
-    <configuration name="task_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.while_23">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Week-2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Requests/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_13.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,19 +279,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Week-2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Requests/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/while_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,19 +300,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Week-2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Requests/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/while_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +321,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Week-2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Requests/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/while_21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,19 +342,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Week-2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Requests/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/while_22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="while_23" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Requests/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/while_23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +385,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.task_15" />
-      <item itemvalue="Python.task_13" />
-      <item itemvalue="Python.task_16" />
-      <item itemvalue="Python.task_17" />
-      <item itemvalue="Python.task_18" />
+      <item itemvalue="Python.while_17" />
+      <item itemvalue="Python.while_18" />
+      <item itemvalue="Python.while_21" />
+      <item itemvalue="Python.while_22" />
+      <item itemvalue="Python.while_23" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_18" />
-        <item itemvalue="Python.task_17" />
-        <item itemvalue="Python.task_16" />
-        <item itemvalue="Python.task_13" />
-        <item itemvalue="Python.task_15" />
+        <item itemvalue="Python.while_23" />
+        <item itemvalue="Python.while_22" />
+        <item itemvalue="Python.while_21" />
+        <item itemvalue="Python.while_17" />
+        <item itemvalue="Python.while_18" />
       </list>
     </recent_temporary>
   </component>
@@ -375,22 +416,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20391516" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2822186" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.61990213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952693" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,138 +440,299 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task_14.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_15.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_16.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_16.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_2.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_3.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_4.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_11.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <marker date="1542106201764" expanded="true" signature="41:256" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_6.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_9.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_8.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_12.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <marker date="1542107084477" expanded="true" signature="8:9" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task_13.py">
+    <entry file="file://$PROJECT_DIR$/if-else/task_13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
             <marker date="1542110243206" expanded="true" signature="19:20" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/task_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/task_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/task_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/task_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/task_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while/while_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
