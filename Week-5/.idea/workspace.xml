@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28dc04f3-2a91-42ea-9f26-6e16490e6c6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/Week-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/if-else/task_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-3/float/float_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/Week-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/functions/f_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples/tuple_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_9.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1418121006">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tuples/tuple_1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tuples/tuple_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="91" />
+    <option name="y" value="27" />
+    <option name="width" value="1275" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Week-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week-5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28dc04f3-2a91-42ea-9f26-6e16490e6c6d" name="Default Changelist" comment="" />
+      <created>1542721684081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542721684081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tuples/tuple_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
