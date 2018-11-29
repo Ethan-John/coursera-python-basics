@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e751b821-7e48-4b85-934e-c18e2021e980" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/Week-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/Week-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-5/.idea/Week-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/.idea/Week-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-6/lists/list_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/Week-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/dict_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-7/dictionaries/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/.idea/Week-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week-8/task_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-1/.idea/Week-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/if-else/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/if-else/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/while/while_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/while/while_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-2/while/while_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-2/while/while_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/float/float_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/float/float_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-3/string/string_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-3/string/string_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-4/functions/f_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-4/functions/f_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/lists/list_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/lists/list_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-5/tuples/tuple_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-5/tuples/tuple_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-6/lists/list_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-6/lists/list_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-6/lists/list_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-6/lists/list_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-6/lists/list_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-6/lists/list_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-6/lists/list_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-6/lists/list_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week-6/lists/list_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Week-6/lists/list_5.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/class.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="41" />
+    <option name="y" value="25" />
+    <option name="width" value="1325" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Week-9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week-9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week-9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e751b821-7e48-4b85-934e-c18e2021e980" name="Default Changelist" comment="" />
+      <created>1543470046321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543470046321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35253456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
